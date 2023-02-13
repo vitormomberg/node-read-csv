@@ -1,0 +1,7 @@
+id;firstname;lastname;profession;ano;idade;mes;dia;hetero
+100;Babita;Herrera;worker;1998;24;07;16;true
+101;Talya;Carlson;worker;1998;24;07;16;true
+102;Addia;Abbot;doctor;1998;24;07;16;true
+103;Addia;Abbot;doctor;1998;24;07;16;true
+104;Addia;Abbot;doctor;;;;;
+510098;Vitor;Abbot;doctor;1998;24;07;16;true

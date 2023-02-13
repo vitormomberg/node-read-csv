@@ -1,0 +1,18 @@
+o que é melhor?
+
+- ler todos arquivos em pararelo
+  -pros
+    -velocidade
+    -asyncrono
+    -stream
+  
+  -contra
+    -a cada consulta a API o s3 será invocado 16 vezes no mesmo tempo
+
+- ler um arquivo de cada vez
+  -pros
+    -sem sobrecarga dos serviços
+    -syncrono
+  
+  -contra
+    -tempo de resposta maior
